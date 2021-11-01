@@ -1,5 +1,5 @@
 # web-scraping
-A node app that scrapes several news sites for climate change and returns a json response containing title, url and website name.
+A node app that scrapes several news sites online for climate change articles and returns a json response containing title, url and website name.
 
 ## Depedencies
 The following dependencies are required: `express`, `axios`, and `cheerio`.
